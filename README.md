@@ -1,6 +1,6 @@
 # Matlab Project
 
-This is a project from the course Signal and Systems in the Peking University.
+This is a project of Signal and Systems, Peking University 2024 Fall.
 
 The aim of this code is to identify male and female voices.
 
